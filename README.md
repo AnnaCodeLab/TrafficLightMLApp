@@ -1,0 +1,2 @@
+# TrafficLightMLApp
+Pythonで機械学習を使った信号機判定アプリです。Tkinterを用いたGUIで画像をアップロードし、信号機が含まれているかを判定します。
